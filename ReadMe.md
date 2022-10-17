@@ -4,7 +4,7 @@
 
 
 Uniwersalny Licznik do gier planszowych.
-Aplikacja mobilna pozwalająca na łatwe i intuicyjne zapisywanie punktów i przechowywanie punktów.
+Aplikacja mobilna pozwalająca na łatwe i intuicyjne zapisywanie i przechowywanie punktów.
 Podstawowe funkcje:
 - Dodawanie graczy,
 - Wybieranie poszczególnych graczy i rozpoczynanie kolejnych partii,
